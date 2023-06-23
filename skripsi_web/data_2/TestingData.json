@@ -1,0 +1,171 @@
+[
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 1192,
+            "latitude": 7.6209,
+            "longitude": 111.522816666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 997,
+            "latitude": 7.63275,
+            "longitude": 111.535033333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 14060,
+            "latitude": 7.62568333333333,
+            "longitude": 111.537633333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 6025,
+            "latitude": 7.62471666666667,
+            "longitude": 111.5207,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 10390,
+            "latitude": 7.6574,
+            "longitude": 111.538433333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 7745,
+            "latitude": 7.63555,
+            "longitude": 111.50375,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 5700,
+            "latitude": 7.67161666666667,
+            "longitude": 111.507883333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 27024,
+            "latitude": 7.64421666666667,
+            "longitude": 111.531833333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 8740,
+            "latitude": 7.6228,
+            "longitude": 111.542766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 3614,
+            "latitude": 7.63108333333333,
+            "longitude": 111.540066666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 754,
+            "latitude": 7.62346666666667,
+            "longitude": 111.5297,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 599,
+            "latitude": 7.64976666666667,
+            "longitude": 111.529783333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TestingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1945,
+            "latitude": 7.6232,
+            "longitude": 111.5234,
+            "Deskripsi": NaN
+        }
+    }
+]

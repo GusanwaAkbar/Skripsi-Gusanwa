@@ -1,0 +1,1666 @@
+[
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 87580,
+            "latitude": 7.63163333333333,
+            "longitude": 111.539666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 87580,
+            "latitude": 7.63336666666667,
+            "longitude": 111.541933333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 87580,
+            "latitude": 7.63163333333333,
+            "longitude": 111.539666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 87580,
+            "latitude": 7.63336666666667,
+            "longitude": 111.541933333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 57945,
+            "latitude": 7.60245,
+            "longitude": 111.554283333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 57945,
+            "latitude": 7.60245,
+            "longitude": 111.554283333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 55157,
+            "latitude": 7.62275,
+            "longitude": 111.5358,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 55157,
+            "latitude": 7.62275,
+            "longitude": 111.5358,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 45000,
+            "latitude": 7.6684,
+            "longitude": 111.507166666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 18340,
+            "latitude": 7.61345,
+            "longitude": 111.532983333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 18110,
+            "latitude": 7.61185,
+            "longitude": 111.53295,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 17770,
+            "latitude": 7.61201666666667,
+            "longitude": 111.53365,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 17033,
+            "latitude": 7.63435,
+            "longitude": 111.5268,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 16590,
+            "latitude": 7.60356666666667,
+            "longitude": 111.55525,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 16590,
+            "latitude": 7.60356666666667,
+            "longitude": 111.55525,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 15710,
+            "latitude": 7.63136666666667,
+            "longitude": 111.5213,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 15710,
+            "latitude": 7.63136666666667,
+            "longitude": 111.5213,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 14610,
+            "latitude": 7.62245,
+            "longitude": 111.534033333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 14610,
+            "latitude": 7.62245,
+            "longitude": 111.534033333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 13155,
+            "latitude": 7.61241666666667,
+            "longitude": 111.5284,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 9460,
+            "latitude": 7.62206666666667,
+            "longitude": 111.5408,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 9460,
+            "latitude": 7.62206666666667,
+            "longitude": 111.5408,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 8985,
+            "latitude": 7.61525,
+            "longitude": 111.527183333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 8985,
+            "latitude": 7.61525,
+            "longitude": 111.527183333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 8740,
+            "latitude": 7.6228,
+            "longitude": 111.542766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 8740,
+            "latitude": 7.6228,
+            "longitude": 111.542766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 7165,
+            "latitude": 7.61531666666667,
+            "longitude": 111.5277,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 7165,
+            "latitude": 7.61531666666667,
+            "longitude": 111.5277,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 6650,
+            "latitude": 7.6557,
+            "longitude": 111.538016666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 6635,
+            "latitude": 7.6403,
+            "longitude": 111.5007,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 6390,
+            "latitude": 7.6578,
+            "longitude": 111.538583333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 6271,
+            "latitude": 7.60503333333333,
+            "longitude": 111.51735,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 6065,
+            "latitude": 7.63625,
+            "longitude": 111.49795,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5872,
+            "latitude": 7.62371666666667,
+            "longitude": 111.534916666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5785,
+            "latitude": 7.62681666666667,
+            "longitude": 111.520466666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5785,
+            "latitude": 7.62681666666667,
+            "longitude": 111.520466666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5784,
+            "latitude": 7.6219,
+            "longitude": 111.535616666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5784,
+            "latitude": 7.6219,
+            "longitude": 111.535616666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 5720,
+            "latitude": 7.62106666666667,
+            "longitude": 111.5034,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5200,
+            "latitude": 7.63206666666667,
+            "longitude": 111.499666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 5150,
+            "latitude": 7.6223,
+            "longitude": 111.540483333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 5150,
+            "latitude": 7.6223,
+            "longitude": 111.540483333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 5070,
+            "latitude": 7.62486666666667,
+            "longitude": 111.521766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 5070,
+            "latitude": 7.62486666666667,
+            "longitude": 111.521766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5055,
+            "latitude": 7.64418333333333,
+            "longitude": 111.5306,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 5055,
+            "latitude": 7.64418333333333,
+            "longitude": 111.5306,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 4905,
+            "latitude": 7.67423333333333,
+            "longitude": 111.508816666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 4865,
+            "latitude": 7.62246666666667,
+            "longitude": 111.542366666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Perumahan",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 4865,
+            "latitude": 7.62246666666667,
+            "longitude": 111.542366666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 4135,
+            "latitude": 7.62285,
+            "longitude": 111.536733333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 4105,
+            "latitude": 7.62266666666667,
+            "longitude": 111.536716666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 4000,
+            "latitude": 7.644049,
+            "longitude": 111.52828,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 3987,
+            "latitude": 7.62246666666667,
+            "longitude": 111.5367,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 3865,
+            "latitude": 7.66781666666667,
+            "longitude": 111.50875,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 3840,
+            "latitude": 7.6223,
+            "longitude": 111.535183333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 3775,
+            "latitude": 7.63291666666667,
+            "longitude": 111.505366666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 3720,
+            "latitude": 7.63315,
+            "longitude": 111.50685,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 3580,
+            "latitude": 7.62193333333333,
+            "longitude": 111.5416,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 3565,
+            "latitude": 7.62275,
+            "longitude": 111.53515,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 3220,
+            "latitude": 7.60475,
+            "longitude": 111.5369,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 3176,
+            "latitude": 7.60106666666667,
+            "longitude": 111.519666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 3045,
+            "latitude": 7.62251666666667,
+            "longitude": 111.53515,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 2786,
+            "latitude": 7.63426666666667,
+            "longitude": 111.552066666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 2716,
+            "latitude": 7.6226,
+            "longitude": 111.534016666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 2716,
+            "latitude": 7.6226,
+            "longitude": 111.534016666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 2630,
+            "latitude": 7.60391666666667,
+            "longitude": 111.514383333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 2379,
+            "latitude": 7.64515,
+            "longitude": 111.51755,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 2370,
+            "latitude": 7.63656666666667,
+            "longitude": 111.5052,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 2252,
+            "latitude": 7.63046666666667,
+            "longitude": 111.512916666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 2235,
+            "latitude": 7.62776666666667,
+            "longitude": 111.522266666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 2074,
+            "latitude": 7.62461666666667,
+            "longitude": 111.519816666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 2000,
+            "latitude": 7.624166,
+            "longitude": 111.515217,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Sawah",
+            "Pusat_kota": "Pinggir",
+            "Visibilitas": "Kurang",
+            "Bangunan": "Tidak",
+            "Luas": 2000,
+            "latitude": 7.545293,
+            "longitude": 111.654082,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 1867,
+            "latitude": 7.63518333333333,
+            "longitude": 111.5258,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 1867,
+            "latitude": 7.63518333333333,
+            "longitude": 111.5258,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 1735,
+            "latitude": 7.6379,
+            "longitude": 111.512516666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1700,
+            "latitude": 7.62233333333333,
+            "longitude": 111.520166666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1624,
+            "latitude": 7.62228333333333,
+            "longitude": 111.519766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 1531,
+            "latitude": 7.63128333333333,
+            "longitude": 111.517366666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 1492,
+            "latitude": 7.62791666666667,
+            "longitude": 111.523383333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 1492,
+            "latitude": 7.62791666666667,
+            "longitude": 111.523383333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 1490,
+            "latitude": 7.63521666666667,
+            "longitude": 111.5482,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 1380,
+            "latitude": 7.62035,
+            "longitude": 111.533366666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 1320,
+            "latitude": 7.61908333333333,
+            "longitude": 111.521666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 1217,
+            "latitude": 7.62076666666667,
+            "longitude": 111.522666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 1200,
+            "latitude": 7.65233333333333,
+            "longitude": 111.524233333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 1150,
+            "latitude": 7.63286666666667,
+            "longitude": 111.532633333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 947,
+            "latitude": 7.62871666666667,
+            "longitude": 111.509333333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Pasar",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Sedang",
+            "Luas": 905,
+            "latitude": 7.6435,
+            "longitude": 111.546666666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 865,
+            "latitude": 7.63985,
+            "longitude": 111.518566666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 710,
+            "latitude": 7.6612,
+            "longitude": 111.526033333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 710,
+            "latitude": 7.6612,
+            "longitude": 111.526033333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 600,
+            "latitude": 7.66116666666667,
+            "longitude": 111.52365,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 600,
+            "latitude": 7.66116666666667,
+            "longitude": 111.52365,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 500,
+            "latitude": 7.641749,
+            "longitude": 111.526403,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 421,
+            "latitude": 7.63141666666667,
+            "longitude": 111.524066666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 410,
+            "latitude": 7.63265,
+            "longitude": 111.534016666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 410,
+            "latitude": 7.63265,
+            "longitude": 111.534016666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 380,
+            "latitude": 7.62211666666667,
+            "longitude": 111.535283333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 366,
+            "latitude": 7.62391666666667,
+            "longitude": 111.533483333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 335,
+            "latitude": 7.62756666666667,
+            "longitude": 111.5329,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 311,
+            "latitude": 7.62093333333333,
+            "longitude": 111.520966666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 270,
+            "latitude": 7.61498333333333,
+            "longitude": 111.5217,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 260,
+            "latitude": 7.63508333333333,
+            "longitude": 111.525766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 260,
+            "latitude": 7.63508333333333,
+            "longitude": 111.525766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 255,
+            "latitude": 7.6442,
+            "longitude": 111.532366666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 229,
+            "latitude": 7.65315,
+            "longitude": 111.515866666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 200,
+            "latitude": 7.624703,
+            "longitude": 111.495008,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 200,
+            "latitude": 7.633486,
+            "longitude": 111.512291,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Kantor",
+            "Pusat_kota": "Sedang",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Bagus",
+            "Luas": 200,
+            "latitude": 7.624703,
+            "longitude": 111.495008,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Sedang",
+            "Bangunan": "Sedang",
+            "Luas": 175,
+            "latitude": 7.62061666666667,
+            "longitude": 111.521433333333,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 150,
+            "latitude": 7.623174,
+            "longitude": 111.52578,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 100,
+            "latitude": 7.548136,
+            "longitude": 111.658034,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 90,
+            "latitude": 7.0,
+            "longitude": 111.0,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 90,
+            "latitude": 7.63463333333333,
+            "longitude": 111.51705,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Ruko",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Bagus",
+            "Luas": 70,
+            "latitude": 7.548428,
+            "longitude": 111.661205,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 17033,
+            "latitude": 7.63435,
+            "longitude": 111.5268,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 2074,
+            "latitude": 7.62461666666667,
+            "longitude": 111.519816666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1700,
+            "latitude": 7.62233333333333,
+            "longitude": 111.520166666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1624,
+            "latitude": 7.62228333333333,
+            "longitude": 111.519766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 17033,
+            "latitude": 7.63435,
+            "longitude": 111.5268,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 2074,
+            "latitude": 7.62461666666667,
+            "longitude": 111.519816666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1700,
+            "latitude": 7.62233333333333,
+            "longitude": 111.520166666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1624,
+            "latitude": 7.62228333333333,
+            "longitude": 111.519766666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 17033,
+            "latitude": 7.63435,
+            "longitude": 111.5268,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 2074,
+            "latitude": 7.62461666666667,
+            "longitude": 111.519816666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1700,
+            "latitude": 7.62233333333333,
+            "longitude": 111.520166666667,
+            "Deskripsi": NaN
+        }
+    },
+    {
+        "model": "map.TrainingData",
+        "fields": {
+            "Peruntukan": "Taman",
+            "Pusat_kota": "Pusat",
+            "Visibilitas": "Strategis",
+            "Bangunan": "Kosong",
+            "Luas": 1624,
+            "latitude": 7.62228333333333,
+            "longitude": 111.519766666667,
+            "Deskripsi": NaN
+        }
+    }
+]
